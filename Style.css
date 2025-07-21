@@ -1,0 +1,23 @@
+body {
+  background: black;
+  color: lime;
+  font-family: monospace;
+  padding: 20px;
+  margin: 0;
+}
+
+.terminal {
+  border: 2px solid lime;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+  margin-top: 50px;
+  background: #000000dd;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  color: red;
+  font-size: 1.5em;
+}
